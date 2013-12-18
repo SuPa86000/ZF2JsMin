@@ -1,36 +1,20 @@
 {
-    "name": "linkorb/jsmin-php",
-    "description": "Unofficial package of jsmin-php",
-    "homepage": "http://www.github.com/linkorb/jsmin-php",
-    "keywords": ["minify", "jsmin", "javascript"],
+    "name": "supa86000/zf2-js-min",
+    "description": "Minifying Js",
+    "homepage": "http://www.supa-creation.com",
+    "keywords": ["minify", "js", "min", "javascript"],
     "type": "library",
     "authors": [
         {
-            "name": "Joost Faassen",
-            "email": "j.faassen@linkorb.com",
-	    "role": "Packaging for composer"
-        },
-        {
-            "name": "Douglas Crockford",
-            "email": "douglas@crockford.com",
-	    "role": ""
-        },
-        {
-            "name": "Ryan Grove",
-            "email": "ryan@wonko.com",
-	    "role": "PHP port"
-        },
-        {
-            "name": "Adam Gofort",
-	    "email": "aag@adamgoforth.com",
-	    "role": "Updates to the PHP port"
+            "name": "QUINTARD Thibaud",
+            "email": "contact@supa-creation.com",
+            "homepage": "http://www.supa-creation.com/"
         }
     ],
     "require": {
         "php": ">=5.0.0"
     },
     "autoload": {
-	    "classmap": ["src/"]
+        "classmap": ["src/"]
     },
-    "license": "MIT"
 }
